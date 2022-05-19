@@ -7,6 +7,7 @@
 
 <ul>
 <li>API com Django 3: Django Rest Framework</li>
+<li>REST APIs com Python e Flask</li>
 
 
 </ul>
