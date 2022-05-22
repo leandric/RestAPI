@@ -6,7 +6,7 @@
 <img src='https://www.elemental.co.za/cms/resources/uploads/blog/86/926f6aaba773.png' width='340'/>
 <p>Desenvolvi algumas APIs durante os treinamentos abaixo listados utilizando python e as fremeworks Django e Flask.</p>
 
-## Cursos realizados
+## Cursos
 
 <ul>
 <li>API com Django 3: Django Rest Framework</li>
